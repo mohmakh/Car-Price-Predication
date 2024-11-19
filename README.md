@@ -1,2 +1,2 @@
 # Car-Price-Predication
-This is a repo for predicting the price of a car.
+This is a Github repository for predicting the price of a car using linear regression.
